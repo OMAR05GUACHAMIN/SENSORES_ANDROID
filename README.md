@@ -6,7 +6,9 @@
 
 ## Autor
 OMAR GUACHAMIN
+
 Jean Tituaña
+
 Felipe Pazmiño
 
 

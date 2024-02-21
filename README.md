@@ -5,7 +5,7 @@
 <div>
 
 ## Autor
-OMAR GUACHAMIN
+OMAR Guachamin
 
 Jean Tituaña
 
